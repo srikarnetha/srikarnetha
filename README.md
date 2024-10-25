@@ -4,7 +4,7 @@
 <!-- This is a comment in the README file -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=000000&center=true&vCenter=true&width=500&height=50&lines=btech+final+year+student+passionate+about+tech;Java+Developer;Front-End+Developer;Machine+Learning+Enthusiast;GitHub+Contributor;Active+Learner+and+Researcher">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=000000&center=true&vCenter=true&width=500&height=50&lines=bttech+final+year+student+passionate+about+tech;Java+Developer;Front-End+Developer;Machine+Learning+Enthusiast;GitHub+Contributor;Active+Learner+and+Researcher">
   </a>
 </p>
 
@@ -17,6 +17,8 @@
 - 🔭 I’m currently working on **Cloud Split: Enhancing and Security with Data Division and Replication**
 
 - 🌱 I’m currently learning **ReactJS**
+
+-  💬 Ask me about **Java, MySQL**
 
 - 📫 How to reach me **srikarkokkula@gmail.com**
 
