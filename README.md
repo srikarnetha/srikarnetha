@@ -3,8 +3,9 @@
 
 
 <a target="_blank" align="center">
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="400" src="https://github.com/srikarnetha/srikarnetha/blob/main/5ef1144e2f8343038afe0eb88a2e10e3.jpeg?raw=true" />
 </a>
+
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
