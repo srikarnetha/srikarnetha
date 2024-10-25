@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kokkula Srikar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🎓 Education
+I'm a final-year Bachelor of Technology student at Gurunanak Institutions Technical Campus, pursuing a degree in Computer Science Engineering with a CGPA of 8.50.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikarnetha&label=Profile%20views&color=0e75b6&style=flat" alt="srikarnetha" /> </p>
 
