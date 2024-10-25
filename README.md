@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kokkula Srikar</h1>
 <h3 align="center">I'm a final-year Bachelor of Technology student at Gurunanak Institutions Technical Campus, pursuing a degree in Computer Science Engineering with a CGPA of 8.50.</h3>
 
+
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="C:\Users\admin\OneDrive\Desktop\Placement_resources\a5a7f018cf7942eda56841879934f318.jpeg">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </a>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
