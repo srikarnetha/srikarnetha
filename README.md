@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **srikarkokkula@gmail.com**
 
-- 📄 I’m currently open for a new job opportunity, this is <a href="link-to-your-resume.pdf" target="_blank">My Resume</a><a href="link-to-your-resume.pdf" target="_blank"></a>
+- 📄 I’m currently open for a new job opportunity, this is <a href="https://drive.google.com/file/d/1mezxg8T3tOsFXK9Hc28mg9O41qOpC2KG/view?usp=drivesdk" target="_blank">My Resume</a><a href="link-to-your-resume.pdf" target="_blank"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
