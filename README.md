@@ -1,15 +1,25 @@
 <h1 align="center">Hi 👋, I'm Kokkula Srikar</h1>
 <h3 align="center">I'm a final-year Bachelor of Technology student at Gurunanak Institutions Technical Campus, pursuing a degree in Computer Science Engineering with a CGPA of 8.50.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srikarnetha&label=Profile%20views&color=0e75b6&style=flat" alt="srikarnetha" /> </p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="C:\Users\admin\OneDrive\Desktop\Placement_resources\a5a7f018cf7942eda56841879934f318.jpeg">
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikarnetha" alt="srikarnetha" /></a> </p>
+- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
-- 🔭 I’m currently working on **Cloud Split: Enhancing and Security with Data Division and Replication**
+- 🌱 I’m currently Working on Mobile App(React-Native)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🤝 I’m available for freelancing.
 
-- 📫 How to reach me **srikarkokkula@gmail.com**
+- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+
+- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+
+- 💬 Ask me about **Reactjs & React-Native**
+
+- 📫 How to reach me **saurabhchavan052@gmail.com**
+
+- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
