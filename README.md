@@ -13,6 +13,8 @@
   <img align="right" alt="Coding" width="400" src="https://github.com/srikarnetha/srikarnetha/blob/main/5ef1144e2f8343038afe0eb88a2e10e3.jpeg?raw=true" />
 </a>
 
+<br>
+
 
 - 🔭 I’m currently working on **Cloud Split: Enhancing and Security with Data Division and Replication**
 
